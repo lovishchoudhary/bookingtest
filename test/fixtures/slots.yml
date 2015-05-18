@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  slot_date: 2015-05-11
+  slot_start_time: 2015-05-11 15:19:10
+  slot_end_time: 2015-05-11 15:19:10
+  slot_cost: 1
+  slot_status: false
+  ground_id: 1
+
+two:
+  slot_date: 2015-05-11
+  slot_start_time: 2015-05-11 15:19:10
+  slot_end_time: 2015-05-11 15:19:10
+  slot_cost: 1
+  slot_status: false
+  ground_id: 1

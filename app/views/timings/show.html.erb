@@ -1,0 +1,19 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Current time:</strong>
+  <%= @timing.current_time %>
+</p>
+
+<p>
+  <strong>Current date:</strong>
+  <%= @timing.current_date %>
+</p>
+
+<p>
+  <strong>Date time:</strong>
+  <%= @timing.date_time %>
+</p>
+
+<%= link_to 'Edit', edit_timing_path(@timing) %> |
+<%= link_to 'Back', timings_path %>

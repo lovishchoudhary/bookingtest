@@ -1,0 +1,19 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Sport:</strong>
+  <%= @ground.sport %>
+</p>
+
+<p>
+  <strong>Open time:</strong>
+  <%= @ground.open_time %>
+</p>
+
+<p>
+  <strong>Close time:</strong>
+  <%= @ground.close_time %>
+</p>
+
+<%= link_to 'Edit', edit_ground_path(@ground) %> |
+<%= link_to 'Back', grounds_path %>

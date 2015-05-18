@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  sport: MyString
+  open_time: 2015-05-09 00:56:00
+  close_time: 2015-05-09 00:56:00
+
+two:
+  sport: MyString
+  open_time: 2015-05-09 00:56:00
+  close_time: 2015-05-09 00:56:00
